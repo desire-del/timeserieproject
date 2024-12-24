@@ -1,0 +1,4 @@
+env/
+data/
+data/SP500/
+data/SP500/sp500_stocks.csv
